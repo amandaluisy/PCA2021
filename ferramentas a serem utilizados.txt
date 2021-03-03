@@ -1,0 +1,4 @@
+mysql : para a criação do banco de dados
+python ou R: para análise de dados
+*alguma ferramenta para criação de dashboards*
+*alguma ferramenta para criação de aplicação*
